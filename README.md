@@ -26,9 +26,9 @@ To help HealthFit’s marketing head decide whether to proceed with IPL-themed p
 
 - **Microsoft Excel**
   - Data cleaning using formulas (`TRIM`, `IFERROR`, `TEXT`, etc.)
-  - Pivot tables to calculate regional and product-wise summaries
+  - Different Functions (Math, Statistical, Logical, Lookup, etc.)
   - Slicers and dynamic filters for interactive exploration
-  - Pivot charts for visual comparison of plans
+  - Charts for visual comparison of plans
   - Conditional formatting to highlight key metrics
 
 ---
