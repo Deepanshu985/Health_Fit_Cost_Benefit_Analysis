@@ -36,9 +36,12 @@ To help HealthFit’s marketing head decide whether to proceed with IPL-themed p
 
 ![Region-wise Analysis](https://github.com/Deepanshu985/Health_Fit_Cost_Benefit_Analysis/blob/cf5ee0ec3bc8e7848bf9c4a1a640024fa85b3cef/output/visuals/region-wise%20analysis.png)
 
+
 ![Cost Benefit Analysis](https://github.com/Deepanshu985/Health_Fit_Cost_Benefit_Analysis/blob/cf5ee0ec3bc8e7848bf9c4a1a640024fa85b3cef/output/visuals/cost%20benefit%20analysis.png)
 
+
 ![Overall Performance Analysis](https://github.com/Deepanshu985/Health_Fit_Cost_Benefit_Analysis/blob/cf5ee0ec3bc8e7848bf9c4a1a640024fa85b3cef/output/visuals/overall%20performance%20analysis.png)
+
 
 ![City-wise Performance Analysis](https://github.com/Deepanshu985/Health_Fit_Cost_Benefit_Analysis/blob/cf5ee0ec3bc8e7848bf9c4a1a640024fa85b3cef/output/visuals/city-wise%20performance%20analysis.png)
 
